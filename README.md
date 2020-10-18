@@ -2,11 +2,11 @@
 EOS Airdrop Tool(including the tool to get account snapshot) EOS空投工具（含获取账户快照的工具）
 
 English edition::
-airdrop.js //Airdrop to account
-airdrop_snapshots.js //Take account snapshots
-eos_account_snapshots2018.txt //EOS account snapshots in 2018
-index.js //useless
-package.json //npm dependencies setting
+airdrop.js //Airdrop to account 
+airdrop_snapshots.js //Take account snapshots 
+eos_account_snapshots2018.txt //EOS account snapshots in 2018 
+index.js //useless 
+package.json //npm dependencies setting 
 
 (0)You should install nodejs before you use this program
 (1)Git this files to your path and run 'npm install' to install
