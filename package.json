@@ -1,0 +1,21 @@
+{
+  "name": "dig_cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asnyc": "^0.0.1-security",
+    "async": "^3.1.0",
+    "crypto-js": "^3.1.9-1",
+    "eosjs": "^21.0.3",
+    "eosjs-ecc": "^4.0.7",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2"
+  }
+}
